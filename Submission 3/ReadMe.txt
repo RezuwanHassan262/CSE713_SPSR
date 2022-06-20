@@ -1,6 +1,6 @@
 Link to unlisted youtube video: https://youtu.be/43000QYU2io
 
-Two public link to the Concept Map: https://drive.google.com/file/d/1FyAVksszWJ2w9W9FJAd5IRC3-PxGiFTg/view?usp=sharing
+Public link to the Concept Map: https://drive.google.com/file/d/1FyAVksszWJ2w9W9FJAd5IRC3-PxGiFTg/view?usp=sharing
 
 
 Book info: 
