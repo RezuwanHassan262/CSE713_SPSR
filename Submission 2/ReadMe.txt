@@ -5,7 +5,7 @@ Link to the slide:
 https://docs.google.com/presentation/d/1RbRjiVbYV_EU3I9KsScd_5dhzl5FR4KR/edit?usp=sharing&ouid=104126414423648578581&rtpof=true&sd=true
 
 Paper title:
-COVID-19 ON SOCIAL MEDIA: ANALYZING MISINFORMATION IN TWITTER CONVERSATIONS
+Covid-19 on social media: Analyzing misinformation in twitter conversations
 
 Link to the paper:
 https://arxiv.org/pdf/2003.12309.pdf
