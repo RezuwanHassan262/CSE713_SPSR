@@ -1,6 +1,4 @@
-Paper title:
-Bangla text summarizer using hybrid of gpt2-bengali and pegasus transformers
-
+Paper title: Toxic Comment Detection using Explainable AI
 
 Github submission link: https://github.com/RezuwanHassan262/CSE713_SPSR/tree/main/Submission%204
 
