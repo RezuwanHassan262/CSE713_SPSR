@@ -45,16 +45,18 @@ Activity in slack:
 
 Extra Credit Bonus Section Slack:
 
-3. https://bucse712spring2022.slack.com/archives/C030G9964D7/p1644832578693589
-4. https://bucse712spring2022.slack.com/archives/C030G9964D7/p1645900502010819
-5. https://bucse712spring2022.slack.com/archives/C030G9964D7/p1646031117540049
-6. https://bucse712spring2022.slack.com/archives/C030G9964D7/p1646031117540049
-7. https://bucse712spring2022.slack.com/archives/C030G9964D7/p1649677235990069
-8. https://bucse712spring2022.slack.com/archives/C030G9964D7/p1652157651197509
+1. https://bucse713summer2022.slack.com/archives/C03HKPU37E0/p1661869336768559
+2. https://bucse713summer2022.slack.com/archives/C03HKPU37E0/p1661869346871889
+3. https://bucse713summer2022.slack.com/archives/C03HKPU37E0/p1661869437755699
 
 Live Discussions: 
 1. https://bucse713summer2022.slack.com/archives/C03HKQDATGU/p1661181239171009
 2. https://bucse713summer2022.slack.com/archives/C03HKQDATGU/p1661182012855689
+3. https://bucse713summer2022.slack.com/archives/C03HKQDATGU/p1661787628411649
+4. https://bucse713summer2022.slack.com/archives/C03HKQDATGU/p1661787635566389
+5. https://bucse713summer2022.slack.com/archives/C03HKQDATGU/p1661787742248329
+
+
 
 Submitter:
 Md. Rezuwan Hassan
