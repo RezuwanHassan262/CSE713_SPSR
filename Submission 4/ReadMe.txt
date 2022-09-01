@@ -6,6 +6,8 @@ Code Link: https://drive.google.com/file/d/1wsUlbDwm2Nl98PoNdGIguzurA76D92af/vie
 
 Overlink link: https://www.overleaf.com/read/rnkzfvmfksyq
 
+Slide Link: https://docs.google.com/presentation/d/1-A3nGYEg6EykJvDYJlaZfNWWrkK23YSA/edit?usp=sharing&ouid=104126414423648578581&rtpof=true&sd=true
+
 // Unlisted YouTube Video link: https://youtu.be/Rl6pBPu83no 
 
 // Conference submitted paper / paper submission / login Link: https://aisca2023.org/submission/index.php
