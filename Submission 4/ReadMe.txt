@@ -12,15 +12,15 @@ Slide Link: https://docs.google.com/presentation/d/1-A3nGYEg6EykJvDYJlaZfNWWrkK2
  
  Youtube Link: https://youtu.be/o-O5I4GVkQg
 
-// Conference submitted paper / paper submission / login Link: https://aisca2023.org/submission/index.php
+Conference submitted paper / paper submission / login Link: https://www.percom.org/call-for-papers/
 
-Conference Name: 4th International Conference on Data Mining and NLP
+Conference Name: 21st International Conference on Pervasive Computing and Communications (PerCom 2023)
 
-Conference URL: https://aisca2023.org/dnlp/index
+Conference URL: https://www.percom.org/call-for-papers/
 
-Paper presentation (anyone can view without login): http://slides.google.com/
+Paper presentation (anyone can view without login): https://docs.google.com/presentation/d/1-A3nGYEg6EykJvDYJlaZfNWWrkK23YSA/edit?usp=sharing&ouid=104126414423648578581&rtpof=true&sd=true
 
-Paper submission date (to workshop/conference): 30 August 2022
+Paper submission date (to workshop/conference): 26-Sep-2022
 
 Group Number: 4
 
