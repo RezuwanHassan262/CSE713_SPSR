@@ -20,7 +20,7 @@ Conference URL: https://www.percom.org/call-for-papers/
 
 Paper presentation (anyone can view without login): https://docs.google.com/presentation/d/1-A3nGYEg6EykJvDYJlaZfNWWrkK23YSA/edit?usp=sharing&ouid=104126414423648578581&rtpof=true&sd=true
 
-Paper submission date (to workshop/conference): 26-Sep-2022
+Paper submission date (to workshop/conference): 26th September, 2022
 
 Group Number: 4
 
