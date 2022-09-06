@@ -8,9 +8,9 @@ Overlink link: https://www.overleaf.com/read/rnkzfvmfksyq
 
 Slide Link: https://docs.google.com/presentation/d/1-A3nGYEg6EykJvDYJlaZfNWWrkK23YSA/edit?usp=sharing&ouid=104126414423648578581&rtpof=true&sd=true
 
- Unlisted YouTube Video link: https://www.youtube.com/playlist?list=PLOjiGLkOUX724F7hDoQRL4lxvGfxjMpP5
+Unlisted YouTube Video link: https://www.youtube.com/playlist?list=PLOjiGLkOUX724F7hDoQRL4lxvGfxjMpP5
  
- Youtube Link: https://youtu.be/o-O5I4GVkQg
+Youtube Link: https://youtu.be/wrBROH6JpRw
 
 Conference submitted paper / paper submission / login Link: https://www.percom.org/call-for-papers/
 
