@@ -1,4 +1,4 @@
-Paper title: Toxic Comment Detection using Explainable AI
+Paper title: Toxic Comment Detection using LIME
 
 Github submission link: https://github.com/RezuwanHassan262/CSE713_SPSR/tree/main/Submission%204
 
