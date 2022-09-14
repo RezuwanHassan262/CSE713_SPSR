@@ -14,9 +14,9 @@ Youtube Link: https://youtu.be/wrBROH6JpRw
 
 Conference submitted paper / paper submission / login Link: https://cmt3.research.microsoft.com/ICCIT2022/Submission/Details/16
 
-Conference Name: ECIR 2023
+Conference Name: 25th International Conference On Computer and Information Technology
 
-Conference URL: https://ecir2023.org/
+Conference URL: https://iccit.org.bd/2022/
 
 Paper presentation (anyone can view without login): https://docs.google.com/presentation/d/1-A3nGYEg6EykJvDYJlaZfNWWrkK23YSA/edit?usp=sharing&ouid=104126414423648578581&rtpof=true&sd=true
 
