@@ -16,7 +16,7 @@ Conference submitted paper / paper submission / login Link: https://cmt3.researc
 
 Conference Name: ECIR 2023
 
-Conference URL: https://www.percom.org/call-for-papers/
+Conference URL: https://ecir2023.org/
 
 Paper presentation (anyone can view without login): https://docs.google.com/presentation/d/1-A3nGYEg6EykJvDYJlaZfNWWrkK23YSA/edit?usp=sharing&ouid=104126414423648578581&rtpof=true&sd=true
 
