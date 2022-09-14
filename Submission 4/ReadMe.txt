@@ -12,9 +12,9 @@ Unlisted YouTube Video link: https://www.youtube.com/playlist?list=PLOjiGLkOUX72
  
 Youtube Link: https://youtu.be/wrBROH6JpRw
 
-Conference submitted paper / paper submission / login Link: https://www.percom.org/call-for-papers/
+Conference submitted paper / paper submission / login Link: https://cmt3.research.microsoft.com/ICCIT2022/Submission/Details/16
 
-Conference Name: 21st International Conference on Pervasive Computing and Communications (PerCom 2023)
+Conference Name: ECIR 2023
 
 Conference URL: https://www.percom.org/call-for-papers/
 
