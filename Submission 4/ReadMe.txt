@@ -25,6 +25,6 @@ Group Number: 4
 Group Members:
 Md. Rezuwan Hassan (21266014)
 Shafin Mahmud Jalal (21266017)
-Rufaida Tasin (21266037)
-Masum Uddin Ahmed (21273001)
 S. M. Niaz Morshed (22173003)
+Masum Uddin Ahmed (21273001)
+Rufaida Tasin (21266037)
